@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+.my-4.container {
+  background-color: #000000c4;
+  color: white;
+  height: 100vh;
+}
+.fs-5{
+  color: black;
+}
+.css-10wo9uf-option {
+  color: black!important;
+}
+.css-10wo9uf-optio:hover {
+  color: rgb(6, 6, 6)!important;
+  background-color: black;
+}
